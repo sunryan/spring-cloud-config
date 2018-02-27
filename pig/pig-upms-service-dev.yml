@@ -10,8 +10,8 @@ spring:
   rabbitmq:
     host: 127.0.0.1
     port: 5682
-    username: guset
-    password: guset
+    username: guest
+    password: guest
   zipkin:
     rabbitmq:
       queue: zipkin
